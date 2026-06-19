@@ -35,4 +35,6 @@ It can use review data from BayReviews while also including predefined review en
 
 ## Installation
 
-1. Upload the plugin folder to:
+1. Upload the plugin folder to: /wp-content/plugins/custom-woocommerce-product-schema/
+
+
